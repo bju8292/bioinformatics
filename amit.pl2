@@ -1,0 +1,7 @@
+#!/usr/bin/perl
+$base!= pop@bases;
+print "Here's the element removed from the end:";
+print"Here's the remaining arry of bases:";
+print"@bases\n";
+print"==============";
+print"\n\n";
